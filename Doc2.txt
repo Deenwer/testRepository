@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Denis modified this file again
+=======
+Denis modified this file
+Let's see next
+>>>>>>> e5c4dd2286d87346e864e1e765acfa4b8edc4aa4
